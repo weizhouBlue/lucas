@@ -1,3 +1,7 @@
+使用：
+编辑deploy.sh中的参数，直接运行脚本即可
+
+
 # lucas
 <p align="center">
     <img width="400"  src="http://ringtail-lucas.oss-cn-beijing.aliyuncs.com/lucas-logo.png">
